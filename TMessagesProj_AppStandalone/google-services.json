@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "121734331510",
+    "project_id": "pepe-messenger",
+    "storage_bucket": "pepe-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231743011535:android:a815225309b1a5f86a005a",
+        "android_client_info": {
+          "package_name": "onl.pepe.messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "ABiaSyCy39ZQB10eh1MYKaSygieYDWZx7EozaLO"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231743011535:android:a815225309b1a5f86a005a",
+        "android_client_info": {
+          "package_name": "onl.pepe.messenger.beta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "ABiaSyCy39ZQB10eh1MYKaSygieYDWZx7EozaLO"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231743011535:android:a815225309b1a5f86a005a",
+        "android_client_info": {
+          "package_name": "onl.pepe.messenger.web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "ABiaSyCy39ZQB10eh1MYKaSygieYDWZx7EozaLO"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
